@@ -1,9 +1,13 @@
 # Assignment 7
 ## 11510837 吴昊宇
 -------------------
-### 1. How many cells can be in a computer’s main memory if each cell’s address can be represented by two hexadecimal digits? What if four hexadecimal digits are used? [4 marks]
+### 1. How many cells can be in a computer’s main memory if each cell’s address can be represented by two hexadecimal digits? What if four  are used? [4 marks]
 
 **ANSWER:**
+
+For 2 hexadecimal digits: it provide 32 bits, 2<sup>32</sup> = 4GB, for cells, one cell is 8 bits so has 2<sup>32</sup> = 4294967296 cells.
+
+For 4 hexadecimal digits: it provide 64 bits, 2<sup>64</sup> = 1.844674407370955e+19
 
 
 
@@ -54,7 +58,9 @@ So in the storage, can store 2<sup>28</sup> / 3 * 2<sup>20</sup> = 85 pictures
 
 **ANSWER:**
 
-![](https://github.com/ritianhh/SUSTech-Introduction-to-Computer-Science-A/blob/master/Assignment%207/image/S.png) ![](https://github.com/ritianhh/SUSTech-Introduction-to-Computer-Science-A/blob/master/Assignment%207/image/C.png)
+![](https://github.com/ritianhh/SUSTech-Introduction-to-Computer-Science-A/blob/master/Assignment%207/image/S.png)
+
+ ![](https://github.com/ritianhh/SUSTech-Introduction-to-Computer-Science-A/blob/master/Assignment%207/image/C.png)
 
 **b. Draw the circuit diagram of half adder using logic diagram symbol.**
 
