@@ -42,6 +42,10 @@
 
 ### 5. The half-adder is an arithmetic circuit block by using this circuit block we can add wo bits. Ithas two inputs terminals and as well as two outputs terminals, with one producing the SUMoutput and the other producing the CARRY. Below figure shows the truth table of a half-adder,showing all possible input combinations and the corresponding outputs along with block. [4marks]
 
+- ![avatar](https://github.com/ritianhh/SUSTech-Introduction-to-Computer-Science-A/blob/master/Assignment%207/image/Assignment7-5.png)
+
+
+
 **a. Please write the relation between input and the SUM and CARRY outputs in Booleanexpression.**
 
 **ANSWER:**
