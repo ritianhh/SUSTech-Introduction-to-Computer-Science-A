@@ -5,11 +5,9 @@
 
 **ANSWER:**
 
-For 2 hexadecimal digits: it provide 32 bits, 2<sup>32</sup> = 4GB, for cells, one cell is 8 bits so has 2<sup>32</sup> = 4294967296 cells.
+For 2 hexadecimal digits: it provide 32 bits, **2<sup>32</sup> = 4**GB, for cells, one cell is 8 bits so it can use **2<sup>32</sup> = 4294967296** cells.
 
-For 4 hexadecimal digits: it provide 64 bits, 2<sup>64</sup> = 1.844674407370955e+19
-
-
+For 4 hexadecimal digits: it provide 64 bits, **2<sup>64</sup> = 1.844674407370955e+19** cells.(However, Windows 64 system can only support 192GB, the  cells can be in a computer’s main memory is also related to the Operating System)
 
 ### 2. What is the value of the most significant bit in the bit patterns represented by the following hexadecimal notations? [4 marks]
 
