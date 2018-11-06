@@ -12,10 +12,13 @@
 **a. 8F**   **b. FF** **c. 6F** **d. 1F**
 **ANSWER:**
 
-**a. 8F**  MSB is **1**
-**b. FF** MSB is **1**
-**c. 6F** MSB is **1**
-**d. 1F** MSB is **1**
+**a. 8F**  MSB is **1** 
+
+**b. FF** MSB is **1** 
+
+**c. 6F** MSB is **1** 
+
+**d. 1F** MSB is **1** 
 
 ### 3. Express each of the following values in binary notation: [4 marks]
 
