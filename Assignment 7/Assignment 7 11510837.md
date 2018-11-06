@@ -34,11 +34,15 @@
 
 **d. 1.25**  (1.01)<sub>b</sub> 
 
-###  4. Suppose a digital camera has a storage capacity of 256MB. How many photographs could bestored in the camera if each consisted of 1024 pixels per row and 1024 pixels per column if eachpixel required three bytes of storage? [4 marks]
+###  4. Suppose a digital camera has a storage capacity of 256MB. How many photographs could be stored in the camera if each consisted of 1024 pixels per row and 1024 pixels per column if eachpixel required three bytes of storage? [4 marks]
 
 **ANSWER:**
 
+256MB = 256 * 1024KB/MB * 1024B/KB = 2<sup>8+10+10</sup> = 2<sup>28</sup>
 
+For each picture, it will occupies" 1024 * 1024 * 3 = 3 * 2<sup>20</sup>
+
+So in the storage, can store 2<sup>28</sup> / 3 * 2<sup>20</sup> = 85 pictures
 
 ### 5. The half-adder is an arithmetic circuit block by using this circuit block we can add wo bits. Ithas two inputs terminals and as well as two outputs terminals, with one producing the SUMoutput and the other producing the CARRY. Below figure shows the truth table of a half-adder,showing all possible input combinations and the corresponding outputs along with block. [4marks]
 
