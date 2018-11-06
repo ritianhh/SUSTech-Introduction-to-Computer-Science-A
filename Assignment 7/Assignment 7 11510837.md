@@ -50,7 +50,7 @@ So in the storage, can store 2<sup>28</sup> / 3 * 2<sup>20</sup> = 85 pictures
 
 
 
-**a. Please write the relation between input and the SUM and CARRY outputs in Booleanexpression.**
+**a. Please write the relation between input and the SUM and CARRY outputs in Boolean expression.**
 
 **ANSWER:**
 
@@ -60,7 +60,7 @@ So in the storage, can store 2<sup>28</sup> / 3 * 2<sup>20</sup> = 85 pictures
 
 **ANSWER:**
 
+![](https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D66/sign=ed83391ffd039245a5b5e20986947d60/f3d3572c11dfa9eca45e99c563d0f703908fc1f4.jpg)
 
-
-
+![](https://github.com/ritianhh/SUSTech-Introduction-to-Computer-Science-A/blob/master/Assignment%207/image/half-add.png)
 
