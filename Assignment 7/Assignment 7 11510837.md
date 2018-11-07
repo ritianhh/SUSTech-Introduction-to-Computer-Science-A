@@ -21,9 +21,9 @@
 >
 >**b. FF** MSB is **1** 
 >
->**c. 6F** MSB is **1** 
+>**c. 6F** MSB is **0**
 >
->**d. 1F** MSB is **1** 
+>**d. 1F** MSB is **0** 
 
 ### 3. Express each of the following values in binary notation: [4 marks]
 
@@ -51,7 +51,7 @@
 
 ### 5. The half-adder is an arithmetic circuit block by using this circuit block we can add wo bits. Ithas two inputs terminals and as well as two outputs terminals, with one producing the SUMoutput and the other producing the CARRY. Below figure shows the truth table of a half-adder,showing all possible input combinations and the corresponding outputs along with block. [4marks]
 
-- ![avatar](https://github.com/ritianhh/SUSTech-Introduction-to-Computer-Science-A/blob/master/Assignment%207/image/Assignment7-5.png)
+- ![avatar](D:\x\计导\git\SUSTech-Introduction-to-Computer-Science-A\Assignment 7\image/Assignment7-5.png)
 
 
 
@@ -59,15 +59,15 @@
 
 > **ANSWER:**
 >
-> ![](https://github.com/ritianhh/SUSTech-Introduction-to-Computer-Science-A/blob/master/Assignment%207/image/S.png)
+> ![](D:\x\计导\git\SUSTech-Introduction-to-Computer-Science-A\Assignment 7\image/S.png)
 >
-> ![](https://github.com/ritianhh/SUSTech-Introduction-to-Computer-Science-A/blob/master/Assignment%207/image/C.png)
+> ![](D:\x\计导\git\SUSTech-Introduction-to-Computer-Science-A\Assignment 7\image/C.png)
 
 **b. Draw the circuit diagram of half adder using logic diagram symbol.**
 
 > **ANSWER:**
 >
-> ![](https://github.com/ritianhh/SUSTech-Introduction-to-Computer-Science-A/blob/master/Assignment%207/image/half-add.png)
+> ![](D:\x\计导\git\SUSTech-Introduction-to-Computer-Science-A\Assignment 7\image\half-add.png)
 
 
 
