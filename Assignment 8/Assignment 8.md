@@ -7,8 +7,11 @@
 1. What is the composition of the CPU?[2 points]
 
    A. Control Unit
+
    B. ALU
+
    C. Control Unit, ALU and Register Unit
+
    D. Control Unit and ALU
 
    > **ANSWER: C**
@@ -16,8 +19,11 @@
 2. Which part is NOT included in a fetch-execute cycle? [2 points]
 
    A. Fetch instruction
+
    B. Decode instruction
+
    C. Execute instruction
+
    D. Encode instruction
 
    > **ANSWER: D**
@@ -25,7 +31,9 @@
 3. Which of the following descriptions of ROM is correct? [2 points]
 
    A. The contents in locations in ROM can be changed.
+
    B. Each cell in ROM can be directly accessed.
+
    C. The contents in ROM can be stored in a long time
 
    > **ANSWER: C**
@@ -33,6 +41,7 @@
 4. Was Von Neumann architecture independently invented by von Neumann in 1940s？[2 points]
 
    A. Yes
+
    B. No
 
    > **ANSWER: B**
@@ -40,6 +49,7 @@
 5. Most PC’s architecture of CPU is：[2 points]
 
    A. CISC
+
    B. RISC 
 
    > **ANSWER: A**
