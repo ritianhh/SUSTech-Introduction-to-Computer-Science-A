@@ -54,17 +54,11 @@
 
 **ANSWER:**
 
-1) 368A:  
+1) **368A**:   would cause the contents of register 6 to be placed in the memory cell whose address is 8A.
 
- would cause the contents of register 6 to be placed in the memory cell whose address is 8A.
+2)** BADE**:  would first compare the contents of register A with the contents of register 0. If the two were equal, the pattern DE would be placed in the program counter so that the next  instruction executed would be the one located at that memory address. Otherwise, nothing would be done and program execution would continue in its normal sequence.
 
-2) BADE:  
-
-would first compare the contents of register A with the contents of register 0. If the two were equal, the pattern DE would be placed in the program counter so that the next  instruction executed would be the one located at that memory address. Otherwise, nothing would be done and program execution would continue in its normal sequence.
-
-3) 803C:
-
- would cause the result of ANDing the contents of registers 3 and C to be placed in register 0.
+3) **803C**:  would cause the result of ANDing the contents of registers 3 and C to be placed in register 0.
 
 > #### b. Here are some instructions in English. Translate each of them into the machine language of Appendix C.[4 points]
 >
