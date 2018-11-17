@@ -14,6 +14,8 @@
 
 > **ANSWER:**
 >
+> **a. 4D8B3**
+>
 > 
 
 ###  2. Perform the indicated operations.[2 points] 
@@ -22,13 +24,15 @@
 
 ​		OR   00101101 
 
-​	b.              01001011 
+​	b.             01001011 
 
 ​		XOR 10101011 
 
 > **ANSWER:**
 >
-> 
+> **a. 11111111**
+>
+> **b.  11100000**
 
 ### 3.What is the result of performing a 1-bit left circular shift on the following bytes represented in hexadecimal notation? Give your answer in hexadecimal form.[8 points] 
 
