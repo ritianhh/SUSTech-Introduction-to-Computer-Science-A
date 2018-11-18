@@ -16,7 +16,9 @@
 >
 > **a. 4D8B3**
 >
-> 
+> **b. AD8B3**
+>
+> **c. 846440**
 
 ###  2. Perform the indicated operations.[2 points] 
 
@@ -51,6 +53,15 @@
 ###   4.Using the machine language of Appendix C, write a program that copies the middle 4 bits from memory cell E0 into the least significant 4 bits of memory cell E1, while placing 0s in the most significant 4 bits of the cell at location E1. [4 points] 
 
 > **ANSWER:**
+>
+> ```
+> 15E0    // EO -> R5
+> A502    // R5 right move 2 bits
+> 260F    // 0F -> R6  0000 1111
+> 8056    // R5 AND R6 -> R0
+> 30E1    // R0 -> E1
+> C000    
+> ```
 >
 > 
 
