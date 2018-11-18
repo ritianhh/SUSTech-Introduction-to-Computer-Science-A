@@ -48,24 +48,39 @@
 
 > **ANSWER:**
 >
-> 
+> > a.
+> >
+> > AB<sub>16</sub> = 10101011<sub>2</sub> 
+> >
+> > 
+>
+>
+> > b.
+> >
+> > 5C<sub>16</sub> = 1011100<sub>2</sub> 
+>
+>
+> > c.
+> >
+> > B7<sub>16</sub> = 10110111<sub>2</sub> 
+>
+>
+> > d.
+> >
+> > 35<sub>16</sub> = 00110101<sub>2</sub> 
 
 ###   4.Using the machine language of Appendix C, write a program that copies the middle 4 bits from memory cell E0 into the least significant 4 bits of memory cell E1, while placing 0s in the most significant 4 bits of the cell at location E1. [4 points] 
 
 > **ANSWER:**
 >
-> ```
+> ```java
 > 15E0    // EO -> R5
 > A502    // R5 right move 2 bits
 > 260F    // 0F -> R6  0000 1111
 > 8056    // R5 AND R6 -> R0
 > 30E1    // R0 -> E1
-> C000    
+> C000
 > ```
->
-> 
-
-​	
 
 
 
