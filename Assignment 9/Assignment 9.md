@@ -52,22 +52,38 @@
 > >
 > > AB<sub>16</sub> = 10101011<sub>2</sub> 
 > >
-> > 
+> > **10101011**  1-bit left circular shift ->  **01010111**
+> >
+> > **01010111**<sub>2</sub> = **57**<sub>16</sub>
 >
 >
 > > b.
 > >
 > > 5C<sub>16</sub> = 1011100<sub>2</sub> 
+> >
+> >  **1011100** 1-bit left circular shift -> **0111001**
+> >
+> >  **0111001**<sub>2</sub> = **39**<sub>16</sub>
 >
 >
 > > c.
 > >
 > > B7<sub>16</sub> = 10110111<sub>2</sub> 
+> >
+> > **10110111** 1-bit left circular shift -> **01101111**
+> >
+> > **01101111**<sub>2</sub> = **6F**<sub>16</sub>
+> >
+> > 
 >
 >
 > > d.
 > >
 > > 35<sub>16</sub> = 00110101<sub>2</sub> 
+> >
+> > **00110101** 1-bit left circular shift -> **01101010**
+> >
+> > **01101010**<sub>2</sub> = **6A**<sub>16</sub>
 
 ###   4.Using the machine language of Appendix C, write a program that copies the middle 4 bits from memory cell E0 into the least significant 4 bits of memory cell E1, while placing 0s in the most significant 4 bits of the cell at location E1. [4 points] 
 
