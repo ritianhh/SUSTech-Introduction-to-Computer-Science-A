@@ -27,19 +27,19 @@ print(X)
 >
 > a.  If parameters are passed by value, the output will be 
 >
-> > 5
+> > **5**
 > >
-> > 15
+> > **15**
 > >
-> > 5
+> > **5**
 >
 > b.  if parameters are passed by reference, the output will be 
 >
-> >15
+> >**15**
 > >
-> >15
+> >**15**
 > >
-> >15
+> >**15**
 
 ### 2. What will be the output of the following C code? Explain your answer.[2pts]
 ![](https://github.com/ritianhh/SUSTech-Introduction-to-Computer-Science-A/blob/master/Assignment10/image/10.2.png)
